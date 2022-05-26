@@ -1,0 +1,3 @@
+1、增加日志打印功能？方便定位问题
+2、.pro文件中增加 makefile 语句，debug 和 release 时把工程下的 messConfig.ini 文件自动拷贝到程序debug 和 release 文件夹下
+
